@@ -39,7 +39,7 @@ local colors = {
     Function = {fg = foreground},
     Identifier = {fg = foreground},
     LineNr = {fg = foreground},
-    MatchParen = {bg = foreground, fg = background},
+    MatchParen = {bg = keyword, fg = background},
     ModeMsg = {fg = method},
     NonText = {fg = background},
     NormalFloat = {},
